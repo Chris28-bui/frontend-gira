@@ -20,17 +20,3 @@
 .input-group{
     width: 50%;
 }
-
-.layout__login-overlay{
-    background-image: url("../../../assets/images/gira_logi.png");
-    background-size: cover;
-    background-repeat: none;
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    background-color: rgba(26, 49, 66, 0.5);
-    z-index: -1;
-
-}

@@ -1,0 +1,12 @@
+.title{
+    margin-bottom: 7%;
+    display: flex;
+    justify-content: center;
+}
+
+.text-label{
+    font-size: 1rem;
+    text-transform: uppercase;
+    color: rgba(147, 159, 173, 0.84);
+    font-weight: bold;
+}
