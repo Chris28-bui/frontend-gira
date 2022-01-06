@@ -1,0 +1,17 @@
+.headings-color{
+    color: rgba(17, 43, 74, 0.84);
+}
+
+.card-form__body{
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    color: rgba(17, 43, 74, 0.84);
+    line-height: 0.94rem;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+.table{
+    justify-content: center;
+}
